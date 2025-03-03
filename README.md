@@ -7,6 +7,7 @@ Este repositorio contiene los materiales, códigos y ejercicios del proyecto **"
 - **codigos/**: Scripts de Julia para métodos de interpolación.
 - **datos/**: Archivos de datos para pruebas.
 - **ejercicios/**: Ejercicios propuestos y sus soluciones.
+-  **encuesta/**: https://forms.office.com/r/j58NNUyRyy?origin=lprLink
 
 ## Cómo usar este repositorio
 
