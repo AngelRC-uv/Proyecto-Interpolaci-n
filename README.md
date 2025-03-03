@@ -4,7 +4,7 @@ Este repositorio contiene los materiales, códigos y ejercicios del proyecto **"
 
 ## Estructura del repositorio
 
-- **codigos/**: Scripts de Python, MATLAB o Julia para métodos de interpolación.
+- **codigos/**: Scripts de Julia para métodos de interpolación.
 - **datos/**: Archivos de datos para pruebas.
 - **ejercicios/**: Ejercicios propuestos y sus soluciones.
 
